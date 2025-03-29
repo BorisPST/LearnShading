@@ -1,0 +1,16 @@
+# Shadow Placement
+- Shadow is placed on the bottom half of the sphere.
+- Shape of the shadow curves upward like a crescent or smile.
+- Shadow has a clean, hard edge (no gradient).
+- The upper part of the sphere remains fully lit.
+
+# Highlight Placement
+- A solid, bright highlight sits near the top center of the sphere.
+- The highlight shape is a rounded oval or bean.
+- It's slightly off-center to feel more natural.
+- No soft transition—clearly separated from the base color.
+
+# Cast Shadow (optional)
+- A flat elliptical shadow is placed directly beneath the sphere.
+- Darker than the shadow on the sphere itself.
+- Helps visually anchor the object to a surface.
